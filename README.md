@@ -56,7 +56,9 @@
 <!-- stats -->
 <p>
   <img align="left" alt="glmvc's favorite languages" src="https://github-readme-stats.vercel.app/api/top-langs?username=glmvc&show_icons=true&layout=compact&theme=github_dark&title_color=35BAE4">
-</p>
+</p> <br>
+
+---
 
 <details>
   <summary>:rocket: GitHub Stats</summary>
