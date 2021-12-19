@@ -1,3 +1,4 @@
+<!-- top -->
 <h1 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> hi, my name is ivan</h1>
 <h3 align="center">i am getting started with web development</h3>
 
@@ -12,7 +13,6 @@
 - :seedling: currently learning frontend web development with **HTML, CSS & JavaScript**
 
 ---
-
 
 <!-- languages and tools -->
 <h3 align="left">languages and tools:</h3>
@@ -56,7 +56,7 @@
 <!-- stats -->
 <p>
   <img align="left" alt="glmvc's favorite languages" src="https://github-readme-stats.vercel.app/api/top-langs?username=glmvc&show_icons=true&layout=compact&theme=github_dark&title_color=35BAE4">
-</p> <br>
+</p><br>
 
 ---
 
