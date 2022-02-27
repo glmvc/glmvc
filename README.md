@@ -8,7 +8,7 @@
   </a>
 </p>
 
-- :man_technologist: currently working on [my first website](https://github.com/glmvc/first-site) for learning purposes
+- :man_technologist: currently working on [my **upgraded** first website](https://glmvc.github.io/first-site-upgrade/) for learning purposes
 
 - :seedling: currently learning frontend web development with **HTML, CSS & JavaScript**
 
