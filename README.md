@@ -1,17 +1,18 @@
 <!--------------------------------------------------------------------->
 <!-- top -->
 
-# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> hi, my name is ivan
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&duration=6000&color=C9D1D9&center=true&vCenter=true&width=600&height=20&lines=i+am+getting+started+with+web+development)](https://git.io/typing-svg)
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&duration=6000&color=35BAE4&vCenter=true&width=600&height=20&lines=hi%2C+my+name+is+ivan)](https://git.io/typing-svg)
 
 <a href="https://twitter.com/glmvc" target="blank">
   <img alt="Twitter Follow glmvc" src="https://img.shields.io/twitter/follow/glmvc?color=%231DA1F2&label=%40glmvc&logo=twitter&style=for-the-badge">
 </a>
 
-- :man_technologist: currently working on [my **upgraded** first website](https://glmvc.github.io/first-site-upgrade/) for learning purposes
+<br/>
+<br/>
 
-- :seedling: currently learning frontend web development with **HTML, CSS & JavaScript**
+:seedling: currently learning frontend web development with **HTML, CSS & JavaScript**
+
+:man_technologist: working on [my **upgraded** first website](https://glmvc.github.io/first-site-upgrade/) for learning purposes
 
 
 <!--------------------------------------------------------------------->
